@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "609104514525",
+    "project_id": "toktik-app",
+    "storage_bucket": "toktik-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609104514525:android:637fbe7ab96701c939ba34",
+        "android_client_info": {
+          "package_name": "com.example.toktik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609104514525-210hlibmmka9er1hoka2gvlste94sv1l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlU0hEYl7Y5fA4xD7C4PIsi9Bk_5qX0fs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609104514525-210hlibmmka9er1hoka2gvlste94sv1l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "609104514525-tvkodh84vd36mgg7kk0d56t2d82qft8h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.toktik"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
